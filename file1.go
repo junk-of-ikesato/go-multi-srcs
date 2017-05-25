@@ -1,9 +1,9 @@
 package main
 
-func Func1() string {
-	return "I'm func1"
+func Func1_1() string {
+	return "I'm func1-1"
 }
 
-func func2() string {
-	return "I'm func2"
+func func1_2() string {
+	return "I'm func1-2"
 }
